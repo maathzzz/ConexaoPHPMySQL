@@ -7,7 +7,7 @@ Projeto Conexao PHP e MySQL - Programação Web 2 (Prof. Telma e Marcos)
 Relação do MySQL com PHP. Layout base em HTML + Bootstrap.
 
 Serviço de Banco de dados para o catálogo de objetos em PHP (alteração, exclusão e inspecionamento).
-Utilizado o WampServer(localhost) e phpMyAdmin.
+Utilizado o WampServer (localhost) e phpMyAdmin.
 
 Caso houver a necessidade de teste; 
 
@@ -19,4 +19,4 @@ Caso houver a necessidade de teste;
 
 3. Rodar o arquivo tabelaimg.sql no phpMyAdmin do WampServer
 - (Normalmente, seria necessário criar o banco dentro da plataforma e aí importar a tabela, porém eu já inseri 
-o "CREATE DATABASE (...) PROJETO; USE PROJETO;" dentro do arquivo da tabela.)
+o "CREATE DATABASE (...) PROJETO; USE PROJETO;" dentro do arquivo da tabela).
