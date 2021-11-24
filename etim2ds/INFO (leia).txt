@@ -1,0 +1,19 @@
+Matheus de Amorim Favero - ETEC Joaquim Ferreira do Amaral - 2. Desenvolvimento de Sistemas
+Projeto Conexao PHP e MySQL - Programação Web 2 (Prof. Telma e Marcos)
+
+Relação do MySQL com PHP. Layout base em HTML + Bootstrap.
+
+Serviço de Banco de dados para o catálogo de objetos em PHP (alteração, exclusão e inspecionamento).
+Utilizado o WampServer(localhost) e phpMyAdmin.
+
+Caso houver a necessidade de teste; 
+
+1. Inserir a pasta etim2ds no diretório "www" do WampServer. 
+- (...localhost/etim2ds)
+
+2. Alterar as portas do Localhost no arquivo conexao.php: 
+- ($nome_servidor, $nome_usuario, $senha)
+
+3. Rodar o arquivo tabelaimg.sql no phpMyAdmin do WampServer
+- (Normalmente, seria necessário criar o banco dentro da plataforma e aí importar a tabela, porém eu já inseri 
+o "CREATE DATABASE (...) PROJETO; USE PROJETO;" dentro do arquivo da tabela.)
