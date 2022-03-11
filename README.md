@@ -18,5 +18,3 @@ Caso houver a necessidade de teste;
 - ($nome_servidor, $nome_usuario, $senha)
 
 3. Rodar o arquivo tabelaimg.sql no phpMyAdmin do WampServer
-- (Normalmente, seria necessário criar o banco dentro da plataforma e aí importar a tabela, porém eu já inseri 
-o "CREATE DATABASE (...) PROJETO; USE PROJETO;" dentro do arquivo da tabela).
